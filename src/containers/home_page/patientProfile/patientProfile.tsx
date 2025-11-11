@@ -1,6 +1,5 @@
 "use client";
 
-import React from "react";
 import Image from "next/image";
 import { Clock, PhoneCall } from "lucide-react";
 import { Button } from "@/components/ui/button";
@@ -9,7 +8,6 @@ const PatientProfileSection = () => {
   return (
     <section className="py-16">
       <div className="grid grid-cols-1 md:grid-cols-2 min-h-[380px]">
-        {/* LEFT SIDE */}
         <div className="relative section-padding-x py-10 bg-success/10">
           <div className="absolute inset-0">
             <Image
@@ -44,7 +42,6 @@ const PatientProfileSection = () => {
           </div>
         </div>
 
-        {/* RIGHT SIDE FORM */}
         <div className="section-padding-x py-10 bg-success/15 flex items-center justify-center">
           <form className="grid grid-cols-1 md:grid-cols-2 gap-4 w-full max-w-lg">
             <div>
