@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@layer utilities {
+  /* max width */
+  .max-content-width {
+    @apply max-w-[1440px] mx-auto;
+  }
+
+  /* section padding  */
+  .section-padding-x {
+    @apply px-2 md:px-5 lg:px-7;
+  }
+  .section-padding-y {
+    @apply py-14 md:py-16 lg:py-24;
+  }
+  .section-padding-b {
+    @apply pb-14 md:pb-16 lg:pb-24;
+  }
+  .section-padding-t {
+    @apply pt-14 md:pt-16 lg:pt-24;
+  }
+  .section-content-top {
+    @apply mt-8 md:mt-10;
+  }
+}
