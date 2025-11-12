@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "672f67ad4f86f8a6f4539e01",
+    "title": "Diagnostic Testing",
+    "subtitle": "Fast & accurate lab testing",
+    "icon": "https://i.ibb.co.com/yn4DP63M/Medical-Equipment.png",
+    "variant": "light"
+  },
+  {
+    "_id": "672f67ad4f86f8a6f4539e02",
+    "title": "Preventive Care",
+    "subtitle": "Keep yourself healthy",
+    "icon": "https://i.ibb.co.com/QvsyXTh1/Awareness-Ribbon.png",
+    "variant": "light"
+  },
+  {
+    "_id": "672f67ad4f86f8a6f4539e03",
+    "title": "Telemedicine",
+    "subtitle": "Consult doctors online",
+    "icon": "https://i.ibb.co.com/yn4DP63M/Medical-Equipment.png",
+    "variant": "light"
+  },
+  {
+    "_id": "672f67ad4f86f8a6f4539e04",
+    "title": "Specialist Consultation",
+    "subtitle": "Meet expert doctors easily",
+    "icon": "https://i.ibb.co.com/QvsyXTh1/Awareness-Ribbon.png",
+    "variant": "light"
+  }
+]
+
+
+
+
