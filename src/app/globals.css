@@ -60,7 +60,7 @@
 :root {
   --radius: 0.625rem;
   --background: #FFFFFF;
-  --foreground: #1a2e05;
+  --foreground: #1B4332;
   --card: #ffffff;
   --card-foreground: #1a2e05;
   --popover: #ffffff;
@@ -79,7 +79,7 @@
   --ring: #82b440;
 
   /* New status colors */
-  --success: #22c55e;
+  --success: #2BAE66;
   --error: #dc2626;
   --warning: #d97706;
   --danger: #b91c1c;
@@ -350,6 +350,7 @@ html {
     @apply bg-gradient-to-r from-gradient-from to-gradient-to bg-clip-text text-transparent;
   }
 }
+
 
 /* Utility classes for gradients */
 .gradient-primary {

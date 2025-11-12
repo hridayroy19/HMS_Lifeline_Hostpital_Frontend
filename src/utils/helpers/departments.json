@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "name": "Cardiology",
+    "image": "https://res.cloudinary.com/dsb1inal0/image/upload/v1762934251/Cardiology_b1i4pu.png",
+    "hoverImage": "https://res.cloudinary.com/dsb1inal0/image/upload/v1762931242/orthopedic_care_1_rc7imq.png"
+  },
+  {
+    "id": 2,
+    "name": "Orthopedics",
+    "image": "https://res.cloudinary.com/dsb1inal0/image/upload/v1762931242/orthopedic_care_1_rc7imq.png",
+    "hoverImage": "https://res.cloudinary.com/dsb1inal0/image/upload/v1762232884/beautiful-female-teacher-in-classroom-WWFH0X_cqjcth.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Neurology",
+    "image": "https://res.cloudinary.com/dsb1inal0/image/upload/v1762934493/Neurology_aocqur.png",
+    "hoverImage": "https://res.cloudinary.com/dsb1inal0/image/upload/v1757258690/z5cgsvtfyntu4c9w3ueq.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Pediatrics",
+    "image": "https://res.cloudinary.com/dsb1inal0/image/upload/v1762931240/Pediatric_Surgery_c8qmag.png"
+  }
+]
