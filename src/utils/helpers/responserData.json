@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "1",
+    "logo": "https://res.cloudinary.com/dsb1inal0/image/upload/v1762924154/download-removebg-preview_8_1_ytkl21.png",
+    "name": "Apex"
+  },
+  {
+    "_id": "2",
+    "logo": "https://res.cloudinary.com/dsb1inal0/image/upload/v1762924153/download-removebg-preview_1_1_ncrfkv.png",
+    "name": "Brak"
+  },
+  {
+    "_id": "3",
+    "logo": "https://res.cloudinary.com/dsb1inal0/image/upload/v1762924153/download-removebg-preview_3_1_at3ngi.png",
+    "name": "Robi"
+  },
+  {
+    "_id": "4",
+    "logo": "https://res.cloudinary.com/dsb1inal0/image/upload/v1762924160/download-removebg-preview_10_1_vtuxs6.png",
+    "name": "Nagad"
+  },
+  {
+    "_id": "5",
+    "logo": "https://res.cloudinary.com/dsb1inal0/image/upload/v1762924153/download-removebg-preview_1_lwcomu.png",
+    "name": "Grameenphone"
+  },
+  {
+    "_id": "6",
+    "logo": "https://res.cloudinary.com/dsb1inal0/image/upload/v1762924160/download-removebg-preview_10_1_vtuxs6.png",
+    "name": "Banglalink"
+  },
+  {
+    "_id": "7",
+    "logo": "https://res.cloudinary.com/dsb1inal0/image/upload/v1762924157/download-removebg-preview_7_1_vml5xu.png",
+    "name": "Airtel"
+  }
+]

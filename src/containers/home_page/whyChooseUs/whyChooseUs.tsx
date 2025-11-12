@@ -28,8 +28,8 @@ const FeatureCard = ({ icon: Icon, title, subtitle }: FeatureCardProps) => {
 
 const WhyChooseUsSection = () => {
   return (
-    <section className="py-16 md:py-24 px-5 bg-background">
-      <div className="max-w-7xl mx-auto grid lg:grid-cols-2 gap-14">
+    <section className="w-full bg-background">
+      <div className="section-padding-x mx-auto grid lg:grid-cols-2 gap-14">
         <div>
           <h2 className="text-4xl md:text-5xl font-extrabold text-foreground leading-tight">
             Why Choose Us
