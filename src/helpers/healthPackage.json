@@ -1,0 +1,76 @@
+[
+  {
+    "_id": "67591e85e8d3c21a5c8f9a41",
+    "packageName": "Package - 1",
+    "tests": [
+      { "name": "Complete Blood Count (CBC)", "price": 400.00 },
+      { "name": "Blood Sugar", "price": 400.00 },
+      { "name": "Lipid Profile", "price": 400.00 },
+      { "name": "Serum Creatinine", "price": 400.00 },
+      { "name": "Urine R/E", "price": 400.00 },
+      { "name": "ECG", "price": 400.00 },
+      { "name": "Lipid Profile", "price": 400.00 },
+      { "name": "Urine R/E", "price": 400.00 }
+    ],
+    "totalCost": 3730.00,
+    "discountedPrice": 2990.00,
+    "currency": "BDT",
+    "createdAt": "2025-11-11T00:00:00.000Z",
+    "updatedAt": "2025-11-11T00:00:00.000Z"
+  },
+  {
+    "_id": "67591e85e8d3c21a5c8f9a42",
+    "packageName": "Package - 2",
+    "tests": [
+      { "name": "Complete Blood Count (CBC)", "price": 400.00 },
+      { "name": "Blood Sugar", "price": 400.00 },
+      { "name": "Lipid Profile", "price": 400.00 },
+      { "name": "Serum Creatinine", "price": 400.00 },
+      { "name": "Urine R/E", "price": 400.00 },
+      { "name": "ECG", "price": 400.00 },
+      { "name": "Lipid Profile", "price": 400.00 },
+      { "name": "Urine R/E", "price": 400.00 }
+    ],
+    "totalCost": 3730.00,
+    "discountedPrice": 2990.00,
+    "currency": "BDT",
+    "createdAt": "2025-11-11T00:00:00.000Z",
+    "updatedAt": "2025-11-11T00:00:00.000Z"
+  },
+  {
+    "_id": "67591e85e8d3c21a5c8f9a43",
+    "packageName": "Package - 3",
+    "tests": [
+      { "name": "Complete Blood Count (CBC)", "price": 400.00 },
+      { "name": "Blood Sugar (Fasting)", "price": 450.00 },
+      { "name": "Liver Function Test (LFT)", "price": 600.00 },
+      { "name": "Serum Uric Acid", "price": 400.00 },
+      { "name": "Urine R/E", "price": 400.00 },
+      { "name": "ECG", "price": 400.00 },
+      { "name": "Chest X-Ray", "price": 500.00 }
+    ],
+    "totalCost": 3150.00,
+    "discountedPrice": 2590.00,
+    "currency": "BDT",
+    "createdAt": "2025-11-11T00:00:00.000Z",
+    "updatedAt": "2025-11-11T00:00:00.000Z"
+  },
+  {
+    "_id": "67591e85e8d3c21a5c8f9a44",
+    "packageName": "Package - 4",
+    "tests": [
+      { "name": "Complete Blood Count (CBC)", "price": 400.00 },
+      { "name": "Blood Sugar (Fasting/PP)", "price": 500.00 },
+      { "name": "Lipid Profile", "price": 400.00 },
+      { "name": "Kidney Function Test (KFT)", "price": 600.00 },
+      { "name": "Serum Creatinine", "price": 400.00 },
+      { "name": "ECG", "price": 400.00 },
+      { "name": "Chest X-Ray", "price": 500.00 }
+    ],
+    "totalCost": 3600.00,
+    "discountedPrice": 2990.00,
+    "currency": "BDT",
+    "createdAt": "2025-11-11T00:00:00.000Z",
+    "updatedAt": "2025-11-11T00:00:00.000Z"
+  }
+]
