@@ -99,12 +99,12 @@ const HeroSection: React.FC = () => {
           {/* RIGHT - Text area */}
           <div className="w-full hidden md:flex md:w-[48%] mt-8 md:mt-0">
             <div className="text-center md:text-right">
-              <h1 className=" sm:text-3xl md:text-3xl lg:text-6xl font-extrabold leading-[1.08] text-background">
+              <h1 className="  text-foreground">
                 Compassionate Care
                 <br />
                 Advanced Medicine
               </h1>
-              <p className="mt-4 sm:mt-5 text-foreground text-base sm:text-lg md:text-xl font-medium">
+              <p className="mt-4 sm:mt-5 text-foreground sm:text-lg md:text-xl font-medium">
                 Highly qualified specialists across all major medical disciplines.
               </p>
             </div>
